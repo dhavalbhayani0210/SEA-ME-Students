@@ -1,4 +1,4 @@
-# FirstName LastName Dbhayani
+# FirstName LastName Dhaval Bhayani
 ## Profile Pic: 
 ## Call me by this name: Dhaval 
 ## Cohort: July 2025
